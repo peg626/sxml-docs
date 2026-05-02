@@ -21,5 +21,5 @@ templates_path = ['_templates']
 exclude_patterns = []
 
 # -- HTML output --
-html_theme = 'alabaster'  # tema padrão (pode trocar depois)
+html_theme = 'sphinx_rtd_theme'  # tema padrão (pode trocar depois)
 html_static_path = ['_static']
