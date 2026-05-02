@@ -11,7 +11,7 @@ build:
     python: "3.13"
 python:
   install:
-    - requirements: requerements.txt
+    - requirements: requeriments.txt
 # Build documentation in the "docs/" directory with Sphinx
 sphinx:
   configuration: docs/conf.py
